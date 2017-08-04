@@ -1,0 +1,32 @@
+﻿.navbar-right{
+    float: right !important;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.textAdjust {
+    overflow: hidden;
+    text-align: justify;
+    /*padding-right: 10px;*/
+    display: block;
+}
+
+.img-thumbnail {
+    margin-top: 20px;
+}
+
+.well {
+    padding-bottom: 50px !important;
+}
+
+.priceSet {
+    margin-top: 0vh;
+    margin-bottom: 2vh;
+    font-size: 1.5em;
+}
+
+.price {
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 5vh;
+}
+
